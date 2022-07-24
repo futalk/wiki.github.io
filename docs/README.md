@@ -21,6 +21,10 @@ https://github.com/Threekiii/Vulnerability-Wiki
 
 【免责声明】本网站所涉及的技术、思路和工具仅供学习，任何人不得将其用于非法用途和盈利，否则后果自行承担。
 
+# 最后修改日期
+
+2022年7月24日
+
 <footer>
 <a href="https://beian.miit.gov.cn"  style="color:#f72b07" target="_blank">豫ICP备2022005421号-2</a>
 </footer>
