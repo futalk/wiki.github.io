@@ -23,7 +23,7 @@ https://github.com/Threekiii/Vulnerability-Wiki
 
 # 最后修改日期
 
-2022年7月24日
+2022年7月25日
 
 <footer>
 <a href="https://beian.miit.gov.cn"  style="color:#f72b07" target="_blank">豫ICP备2022005421号-2</a>
