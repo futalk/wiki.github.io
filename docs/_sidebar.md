@@ -1,5 +1,3 @@
 [>>首页](README.md)
-* docs-0sec
-   * [docs-0sec](docs-0sec/_sidebar)
-* docs-base
-   * [docs-base](docs-base/_sidebar)
+* [docs-0sec](http://wiki1.putdown.top/#/)
+* [docs-base](http://wiki2.putdown.top/#/)
