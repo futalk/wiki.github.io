@@ -22,3 +22,6 @@ https://github.com/Threekiii/Vulnerability-Wiki
 【免责声明】本网站所涉及的技术、思路和工具仅供学习，任何人不得将其用于非法用途和盈利，否则后果自行承担。
 
 # 本站最后修改日期 ： 2022年8月12日
+* [docs-0sec](http://wiki1.putdown.top/#/)
+
+* [docs-base](http://wiki2.putdown.top/#/)
