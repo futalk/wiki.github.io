@@ -18,7 +18,7 @@ https://github.com/Threekiii/Vulnerability-Wiki
 https://github.com/Threekiii/Awesome-POC
 ```
 # 本网站
-
+根据上述项目搭建，如有侵犯请联系删除。
 【免责声明】本网站所涉及的技术、思路和工具仅供学习，任何人不得将其用于非法用途和盈利，否则后果自行承担。
 
 # 本站最后修改日期 ： 2023年7月17日
