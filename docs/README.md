@@ -21,4 +21,3 @@ https://github.com/Threekiii/Awesome-POC
 
 * [docs-base](http://base.putdown.top/#/)
   
-* [Awesome-POC](https://poc.putdown.top/#/)
